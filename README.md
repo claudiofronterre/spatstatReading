@@ -3,7 +3,8 @@ This repository contains info and materials for the Spatial Statistics Reading G
 
 ## Week 1 (11am US EST, October 30th)
 
-The topic for this week is a general introduction to spatial statistics and in particular to geostatistics. 
+The topic for this week is a general introduction to spatial statistics and in particular to geostatistics.
+
 **Reading material**: Chapter 1 of [MBG](https://www.crcpress.com/Model-based-Geostatistics-for-Global-Public-Health-Methods-and-Applications/Diggle-Giorgi/p/book/9781138732353) book.
 
 For those interested in learning how to handle spatial data with R you can have a look a [this introductory tutorial](https://github.com/claudiofronterre/spatstatReading/blob/master/resources/week1/spatial_handouts.pdf).
