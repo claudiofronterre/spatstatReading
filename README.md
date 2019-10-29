@@ -9,4 +9,4 @@ The topic for this week is a general introduction to spatial statistics and in p
 
 **Reading material**: Chapter 1 of [MBG](https://www.crcpress.com/Model-based-Geostatistics-for-Global-Public-Health-Methods-and-Applications/Diggle-Giorgi/p/book/9781138732353) book.
 
-For those interested in learning how to handle spatial data with R you can have a look a [this introductory tutorial](https://github.com/claudiofronterre/spatstatReading/blob/master/resources/week1/spatial_handouts.pdf).
+For those interested in learning how to handle spatial data with R you can have a look at [this introductory tutorial](https://github.com/claudiofronterre/spatstatReading/blob/master/resources/week1/spatial_handouts.pdf).
