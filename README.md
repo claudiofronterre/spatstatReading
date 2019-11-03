@@ -10,3 +10,11 @@ The topic for this week is a general introduction to spatial statistics and in p
 **Reading material**: Chapter 1 of [MBG](https://www.crcpress.com/Model-based-Geostatistics-for-Global-Public-Health-Methods-and-Applications/Diggle-Giorgi/p/book/9781138732353) book.
 
 For those interested in learning how to handle spatial data with R you can have a look at [this introductory tutorial](https://github.com/claudiofronterre/spatstatReading/blob/master/resources/week1/spatial_handouts.pdf).
+
+## Week 2 (11am US EST, November 6th)
+
+**Zoom link**: https://psu.zoom.us/j/445971928
+
+In this session we will see the potential flaws of applying standard regression models to spatially reference data. We will learn what is the variogram and how we can use it to test for residual spatial correlation. 
+
+**Reading material**: Chapter 2 of [MBG](https://www.crcpress.com/Model-based-Geostatistics-for-Global-Public-Health-Methods-and-Applications/Diggle-Giorgi/p/book/9781138732353) book.
