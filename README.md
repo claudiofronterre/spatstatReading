@@ -26,3 +26,11 @@ In this session we will see the potential flaws of applying standard regression 
 In this session we will talk about Gaussian processes, how they are parametrised to capture spatial variabily using different families of spatial correlation functions. Then a brief introduction to stastical and predictive inference both from a frequentist and Bayesian perspective.
 
 **Reading material**: Chapter 3 of [MBG](https://www.crcpress.com/Model-based-Geostatistics-for-Global-Public-Health-Methods-and-Applications/Diggle-Giorgi/p/book/9781138732353) book. Section 3.6 can be skipped.
+
+## Week 4 (11am US EST, December 4th)
+
+**Zoom link**: https://psu.zoom.us/j/445971928
+
+In this session we will talk about the linear Geostatistical model, how to formulate it, validate its fit to a dataset and obtain spatial predictions for any target of interest.
+
+**Reading material**: Chapter 4 of [MBG](https://www.crcpress.com/Model-based-Geostatistics-for-Global-Public-Health-Methods-and-Applications/Diggle-Giorgi/p/book/9781138732353) book. 
