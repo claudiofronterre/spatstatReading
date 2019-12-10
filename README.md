@@ -27,7 +27,7 @@ In this session we will talk about Gaussian processes, how they are parametrised
 
 **Reading material**: Chapter 3 of [MBG](https://www.crcpress.com/Model-based-Geostatistics-for-Global-Public-Health-Methods-and-Applications/Diggle-Giorgi/p/book/9781138732353) book. Section 3.6 can be skipped.
 
-## Week 4 (11am US EST, December 4th)
+## Week 4 (11am US EST, December 11th)
 
 **Zoom link**: https://psu.zoom.us/j/445971928
 
