@@ -31,6 +31,14 @@ In this session we will talk about Gaussian processes, how they are parametrised
 
 **Zoom link**: https://psu.zoom.us/j/445971928
 
-In this session we will talk about the linear Geostatistical model, how to formulate it, validate its fit to a dataset and obtain spatial predictions for any target of interest.
+In this session we will talk about the linear Geostatistical model, how to formulate it and validate its fit to a dataset.
+
+**Reading material**: Chapter 4 of [MBG](https://www.crcpress.com/Model-based-Geostatistics-for-Global-Public-Health-Methods-and-Applications/Diggle-Giorgi/p/book/9781138732353) book.
+
+## Week 5 (11am US EST, December 18th)
+
+**Zoom link**: https://psu.zoom.us/j/445971928
+
+In this session we will talk about spatial predictions for the linear Geostatistical model and show a couple of applications from the book.
 
 **Reading material**: Chapter 4 of [MBG](https://www.crcpress.com/Model-based-Geostatistics-for-Global-Public-Health-Methods-and-Applications/Diggle-Giorgi/p/book/9781138732353) book. 
